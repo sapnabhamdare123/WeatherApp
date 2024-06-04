@@ -106,3 +106,15 @@ body{
     background: linear-gradient(to right, rgb(129, 177, 203), rgb(4, 112, 139), rgb(76, 183, 190));
 
 }
+
+.weather{
+    display: none;
+}
+
+.error{
+    text-align: left;
+    margin-left: 10px;
+    font-size: 14 px;
+    margin-top: 10px;
+    display: none;
+}
